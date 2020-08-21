@@ -1,7 +1,11 @@
 #Administracion de Infraestructuras
 
 
+<<<<<<< HEAD
 ESTO ES UN TEXTO MOOD DEL PASO 12
+=======
+CAMBIO DE PASO 14
+>>>>>>> test
 
  - miembro 1
  - miembro 2
